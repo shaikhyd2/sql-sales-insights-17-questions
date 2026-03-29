@@ -65,27 +65,27 @@ Solve real-world business questions using SQL
 
  
 # Tools & Skills Used
-SQL (Joins, Aggregations, Window Functions, CTEs)
-Data Analysis
-Business Problem Solving
+- SQL (Joins, Aggregations, Window Functions, CTEs)
+- Data Analysis
+- Business Problem Solving
 
 # Project Highlights
-Real-world business scenarios
-Clean and structured SQL queries
-Focus on insights, not just queries
+- Real-world business scenarios
+- Clean and structured SQL queries
+- Focus on insights, not just queries
 
 # Results
-Successfully solved 17 real-time business problems using SQL
-Identified top-performing products contributing the highest revenue
-Detected loss-making transactions impacting overall profitability
-Analyzed customer behavior, including high-value and repeat customers
-Evaluated store performance based on revenue and order volume
-Measured revenue contribution % to understand business impact
+- Successfully solved 17 real-time business problems using SQL
+- Identified top-performing products contributing the highest revenue
+- Detected loss-making transactions impacting overall profitability
+- Analyzed customer behavior, including high-value and repeat customers
+- Evaluated store performance based on revenue and order volume
+- Measured revenue contribution % to understand business impact
 
 # Key Learnings
-Strong understanding of SQL Joins for combining multiple tables
-Applied Aggregate Functions (SUM, AVG, COUNT) for business analysis
-Used Window Functions (RANK, OVER) for advanced insights
-Improved skills in writing optimized and clean SQL queries
-Learned how to convert business problems into SQL solutions
-Gained experience in analyzing real-world datasets
+- Strong understanding of SQL Joins for combining multiple tables
+- Applied Aggregate Functions (SUM, AVG, COUNT) for business analysis
+- Used Window Functions (RANK, OVER) for advanced insights
+- Improved skills in writing optimized and clean SQL queries
+- Learned how to convert business problems into SQL solutions
+- Gained experience in analyzing real-world datasets
