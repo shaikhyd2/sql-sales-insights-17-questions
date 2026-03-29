@@ -15,33 +15,33 @@ Solve real-world business questions using SQL
 
 # Dataset Details
 ## Sales Table
-Order ID
-Order Date
-Product ID
-Store ID
-Customer ID
-Quantity
-Unit Price
-Discount
-Revenue
-Cost
-Profit
+- Order ID
+- Order Date
+- Product ID
+- Store ID
+- Customer ID
+- Quantity
+- Unit Price
+- Discount
+- Revenue
+- Cost
+- Profit
 
 ## Customers Table
-Customer ID
-Age
-Gender
-Loyalty Member
-Join Date
+- Customer ID
+- Age
+- Gender
+- Loyalty Member
+- Join Date
 
 ## Products Table
 
-Product ID
-Product Name
-Brand
-Category
-Cocoa Percent
-Weight
+- Product ID
+- Product Name
+- Brand
+- Category
+- Cocoa Percent
+- Weight
 
 # Key Business Questions Solved
 
@@ -58,7 +58,7 @@ Weight
    <img width="1049" height="786" alt="4" src="https://github.com/user-attachments/assets/3c35fed0-0022-4311-b26d-0a06b4e55969" />
 
 ## Which product is the most sold based on total quantity?
-    <img width="1048" height="782" alt="5" src="https://github.com/user-attachments/assets/42a414cf-e53d-4d32-b822-143f12b5328b" />
+    <img width="1048" height="782" alt="5" src="https://github.com/user-attachments/assets/506dbf2b-e0f3-47df-93a6-7805002dc47b" />
 
 ## What is the profit margin for each product?
     <img width="1046" height="784" alt="6" src="https://github.com/user-attachments/assets/a15b0a85-1ef0-438a-a905-a89b3f7f1a5b" />
